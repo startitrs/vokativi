@@ -1,5 +1,10 @@
-# vokativi
+# Vokativi
+
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-Vokativi srpskih imena.
+Vokativi srpskih imena, u `CSV` i `JSON` formatu.
+
 U koloni IME nalaze se imena u nominativu, a u koloni VOKATIV odgovarajući oblik u vokativu.
+
++ Verzija: `1.0`
++ Ukupno imena: `1983`
