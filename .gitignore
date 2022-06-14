@@ -1,0 +1,6 @@
+.vscode
+*.code-workspace
+.ftpquota
+error_log
+**/.DS_Store
+node_modules/
