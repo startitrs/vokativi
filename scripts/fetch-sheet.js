@@ -4,7 +4,7 @@ const fs = require( 'fs' );
 const {GoogleSpreadsheet} = require( 'google-spreadsheet' );
 
 ( async () => {
-    const creds = require( '../config/vokativi-7bb7924e5b47.json' );
+    const creds = require( '../config/vokativi-acbbcd5883de.json' );
     const doc = new GoogleSpreadsheet( '1DOw_-l-ndcFfXWhD4fcpBx9f0dt9HypYIzLaAkQis_Q' );
     await doc.useServiceAccountAuth( creds );
 
