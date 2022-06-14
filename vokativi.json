@@ -1,11 +1,11 @@
 [
   {
-    "IMENA": "Ana Marija",
-    "VOKATIV": "Ana Marija"
-  },
-  {
     "IMENA": "Aca",
     "VOKATIV": "Aco"
+  },
+  {
+    "IMENA": "Aćim",
+    "VOKATIV": "Aćime"
   },
   {
     "IMENA": "Aco",
@@ -18,6 +18,22 @@
   {
     "IMENA": "Adelina",
     "VOKATIV": "Adelina"
+  },
+  {
+    "IMENA": "Adis",
+    "VOKATIV": "Adise"
+  },
+  {
+    "IMENA": "Adnan",
+    "VOKATIV": "Adnane"
+  },
+  {
+    "IMENA": "Adrian",
+    "VOKATIV": "Adriane"
+  },
+  {
+    "IMENA": "Adrien",
+    "VOKATIV": "Adriene"
   },
   {
     "IMENA": "Adrijana",
@@ -48,6 +64,10 @@
     "VOKATIV": "Akso"
   },
   {
+    "IMENA": "Aleks",
+    "VOKATIV": "Alekse"
+  },
+  {
     "IMENA": "Aleksa",
     "VOKATIV": "Aleksa"
   },
@@ -72,6 +92,10 @@
     "VOKATIV": "Aleksije"
   },
   {
+    "IMENA": "Alen",
+    "VOKATIV": "Alene"
+  },
+  {
     "IMENA": "Alimpije",
     "VOKATIV": "Alimpije"
   },
@@ -80,12 +104,48 @@
     "VOKATIV": "Ana"
   },
   {
+    "IMENA": "Ana Marija",
+    "VOKATIV": "Ana Marija"
+  },
+  {
     "IMENA": "Anastasija",
     "VOKATIV": "Anastasija"
   },
   {
     "IMENA": "Anda",
     "VOKATIV": "Anda"
+  },
+  {
+    "IMENA": "Anđa",
+    "VOKATIV": "Anđo"
+  },
+  {
+    "IMENA": "Anđela",
+    "VOKATIV": "Anđela"
+  },
+  {
+    "IMENA": "Anđelija",
+    "VOKATIV": "Anđelija"
+  },
+  {
+    "IMENA": "Anđelka",
+    "VOKATIV": "Anđelka"
+  },
+  {
+    "IMENA": "Anđelko",
+    "VOKATIV": "Anđelko"
+  },
+  {
+    "IMENA": "Anđelo",
+    "VOKATIV": "Anđelo"
+  },
+  {
+    "IMENA": "Andjela",
+    "VOKATIV": "Anđela"
+  },
+  {
+    "IMENA": "Andjelka",
+    "VOKATIV": "Anđelka"
   },
   {
     "IMENA": "Andra",
@@ -132,6 +192,14 @@
     "VOKATIV": "Anice"
   },
   {
+    "IMENA": "Anita",
+    "VOKATIV": "Anita"
+  },
+  {
+    "IMENA": "Anja",
+    "VOKATIV": "Anja"
+  },
+  {
     "IMENA": "Anka",
     "VOKATIV": "Anka"
   },
@@ -160,32 +228,12 @@
     "VOKATIV": "Antonina"
   },
   {
-    "IMENA": "Anđa",
-    "VOKATIV": "Anđo"
-  },
-  {
-    "IMENA": "Anđela",
-    "VOKATIV": "Anđela"
-  },
-  {
-    "IMENA": "Anđelija",
-    "VOKATIV": "Anđelija"
-  },
-  {
-    "IMENA": "Anđelka",
-    "VOKATIV": "Anđelka"
-  },
-  {
-    "IMENA": "Anđelko",
-    "VOKATIV": "Anđelko"
-  },
-  {
-    "IMENA": "Anđelo",
-    "VOKATIV": "Anđelo"
-  },
-  {
     "IMENA": "Aranđel",
     "VOKATIV": "Aranđele"
+  },
+  {
+    "IMENA": "Ardijan",
+    "VOKATIV": "Ardijane"
   },
   {
     "IMENA": "Arman",
@@ -236,8 +284,8 @@
     "VOKATIV": "Avrame"
   },
   {
-    "IMENA": "Aćim",
-    "VOKATIV": "Aćime"
+    "IMENA": "Bajčeta",
+    "VOKATIV": "Bajčeta"
   },
   {
     "IMENA": "Bajko",
@@ -248,10 +296,6 @@
     "VOKATIV": "Bajo"
   },
   {
-    "IMENA": "Bajčeta",
-    "VOKATIV": "Bajčeta"
-  },
-  {
     "IMENA": "Balša",
     "VOKATIV": "Balša"
   },
@@ -260,8 +304,20 @@
     "VOKATIV": "Bane"
   },
   {
+    "IMENA": "Barbara",
+    "VOKATIV": "Barbara"
+  },
+  {
     "IMENA": "Batrić",
     "VOKATIV": "Batriću"
+  },
+  {
+    "IMENA": "Bela",
+    "VOKATIV": "Bela"
+  },
+  {
+    "IMENA": "Beriša",
+    "VOKATIV": "Beriša"
   },
   {
     "IMENA": "Berisav",
@@ -276,10 +332,6 @@
     "VOKATIV": "Berislava"
   },
   {
-    "IMENA": "Beriša",
-    "VOKATIV": "Beriša"
-  },
-  {
     "IMENA": "Berko",
     "VOKATIV": "Berko"
   },
@@ -290,6 +342,10 @@
   {
     "IMENA": "Biljana",
     "VOKATIV": "Biljana"
+  },
+  {
+    "IMENA": "Biljka",
+    "VOKATIV": "Biljka"
   },
   {
     "IMENA": "Bisenija",
@@ -360,6 +416,10 @@
     "VOKATIV": "Blažimire"
   },
   {
+    "IMENA": "Blazo",
+    "VOKATIV": "Blažo"
+  },
+  {
     "IMENA": "Blažo",
     "VOKATIV": "Blažo"
   },
@@ -396,12 +456,12 @@
     "VOKATIV": "Bogiću"
   },
   {
-    "IMENA": "Bogiša",
-    "VOKATIV": "Bogiša"
-  },
-  {
     "IMENA": "Boginja",
     "VOKATIV": "Boginja"
+  },
+  {
+    "IMENA": "Bogiša",
+    "VOKATIV": "Bogiša"
   },
   {
     "IMENA": "Bogoboj",
@@ -448,6 +508,10 @@
     "VOKATIV": "Bojana"
   },
   {
+    "IMENA": "Bojčeta",
+    "VOKATIV": "Bojčeta"
+  },
+  {
     "IMENA": "Bojka",
     "VOKATIV": "Bojka"
   },
@@ -458,10 +522,6 @@
   {
     "IMENA": "Bojo",
     "VOKATIV": "Bojo"
-  },
-  {
-    "IMENA": "Bojčeta",
-    "VOKATIV": "Bojčeta"
   },
   {
     "IMENA": "Bora",
@@ -482,6 +542,10 @@
   {
     "IMENA": "Boris",
     "VOKATIV": "Borise"
+  },
+  {
+    "IMENA": "Boriša",
+    "VOKATIV": "Boriša"
   },
   {
     "IMENA": "Borisav",
@@ -506,10 +570,6 @@
   {
     "IMENA": "Borivoje",
     "VOKATIV": "Borivoje"
-  },
-  {
-    "IMENA": "Boriša",
-    "VOKATIV": "Boriša"
   },
   {
     "IMENA": "Borjana",
@@ -548,12 +608,12 @@
     "VOKATIV": "Bosiljka"
   },
   {
-    "IMENA": "Bosna",
-    "VOKATIV": "Bosna"
-  },
-  {
     "IMENA": "Boško",
     "VOKATIV": "Boško"
+  },
+  {
+    "IMENA": "Bosna",
+    "VOKATIV": "Bosna"
   },
   {
     "IMENA": "Boža",
@@ -566,6 +626,14 @@
   {
     "IMENA": "Božica",
     "VOKATIV": "Božice"
+  },
+  {
+    "IMENA": "Božićko",
+    "VOKATIV": "Božićko"
+  },
+  {
+    "IMENA": "Bozidar",
+    "VOKATIV": "Božidare"
   },
   {
     "IMENA": "Božidar",
@@ -586,10 +654,6 @@
   {
     "IMENA": "Božinka",
     "VOKATIV": "Božinka"
-  },
-  {
-    "IMENA": "Božićko",
-    "VOKATIV": "Božićko"
   },
   {
     "IMENA": "Božo",
@@ -624,6 +688,10 @@
     "VOKATIV": "Branimire"
   },
   {
+    "IMENA": "Braniša",
+    "VOKATIV": "Braniša"
+  },
+  {
     "IMENA": "Branisav",
     "VOKATIV": "Branisave"
   },
@@ -646,10 +714,6 @@
   {
     "IMENA": "Branivoje",
     "VOKATIV": "Branivoje"
-  },
-  {
-    "IMENA": "Braniša",
-    "VOKATIV": "Braniša"
   },
   {
     "IMENA": "Branka",
@@ -752,12 +816,84 @@
     "VOKATIV": "Cano"
   },
   {
+    "IMENA": "Ćana",
+    "VOKATIV": "Ćano"
+  },
+  {
     "IMENA": "Cane",
     "VOKATIV": "Cane"
   },
   {
+    "IMENA": "Ćanka",
+    "VOKATIV": "Ćanka"
+  },
+  {
+    "IMENA": "Čarna",
+    "VOKATIV": "Čarna"
+  },
+  {
+    "IMENA": "Časlav",
+    "VOKATIV": "Časlave"
+  },
+  {
+    "IMENA": "Časlavka",
+    "VOKATIV": "Časlavka"
+  },
+  {
     "IMENA": "Ceca",
     "VOKATIV": "Ceco"
+  },
+  {
+    "IMENA": "Čeda",
+    "VOKATIV": "Čedo"
+  },
+  {
+    "IMENA": "Čedo",
+    "VOKATIV": "Čedo"
+  },
+  {
+    "IMENA": "Čedomir",
+    "VOKATIV": "Čedomire"
+  },
+  {
+    "IMENA": "Čedomirka",
+    "VOKATIV": "Čedomirka"
+  },
+  {
+    "IMENA": "Ćerana",
+    "VOKATIV": "Ćerana"
+  },
+  {
+    "IMENA": "Ćetko",
+    "VOKATIV": "Ćetko"
+  },
+  {
+    "IMENA": "Ćile",
+    "VOKATIV": "Ćile"
+  },
+  {
+    "IMENA": "Ćira",
+    "VOKATIV": "Ćiro"
+  },
+  {
+    "IMENA": "Ćirilo",
+    "VOKATIV": "Ćirilo"
+  },
+  {
+    "IMENA": "Ćirjak",
+    "VOKATIV": "Ćirjače"
+  },
+  {
+    "IMENA": "Ćirka",
+    "VOKATIV": "Ćirka"
+  },
+  {
+    "IMENA": "Ćirko",
+    "VOKATIV": "Ćirko"
+  },
+  {
+    "IMENA": "Ćiro",
+    "VOKATIV": "Ćiro"
   },
   {
     "IMENA": "Cmilja",
@@ -770,6 +906,14 @@
   {
     "IMENA": "Cmiljka",
     "VOKATIV": "Cmiljka"
+  },
+  {
+    "IMENA": "Ćuba",
+    "VOKATIV": "Ćubo"
+  },
+  {
+    "IMENA": "Čubrilo",
+    "VOKATIV": "Čubrilo"
   },
   {
     "IMENA": "Curko",
@@ -916,12 +1060,24 @@
     "VOKATIV": "Dano"
   },
   {
+    "IMENA": "Dančul",
+    "VOKATIV": "Dančule"
+  },
+  {
     "IMENA": "Dane",
     "VOKATIV": "Dane"
   },
   {
     "IMENA": "Danica",
     "VOKATIV": "Danice"
+  },
+  {
+    "IMENA": "Daniel",
+    "VOKATIV": "Daniele"
+  },
+  {
+    "IMENA": "Daniela",
+    "VOKATIV": "Daniela"
   },
   {
     "IMENA": "Danijel",
@@ -950,10 +1106,6 @@
   {
     "IMENA": "Danojlo",
     "VOKATIV": "Danojlo"
-  },
-  {
-    "IMENA": "Dančul",
-    "VOKATIV": "Dančule"
   },
   {
     "IMENA": "Dara",
@@ -996,6 +1148,10 @@
     "VOKATIV": "Darko"
   },
   {
+    "IMENA": "Daša",
+    "VOKATIV": "Dašo"
+  },
+  {
     "IMENA": "David",
     "VOKATIV": "Davide"
   },
@@ -1012,8 +1168,8 @@
     "VOKATIV": "Davorka"
   },
   {
-    "IMENA": "Daša",
-    "VOKATIV": "Dašo"
+    "IMENA": "Dea",
+    "VOKATIV": "Dea"
   },
   {
     "IMENA": "Dejan",
@@ -1026,6 +1182,18 @@
   {
     "IMENA": "Delivoje",
     "VOKATIV": "Delivoje"
+  },
+  {
+    "IMENA": "Đenadije",
+    "VOKATIV": "Đenadije"
+  },
+  {
+    "IMENA": "Deni",
+    "VOKATIV": "Deni"
+  },
+  {
+    "IMENA": "Denis",
+    "VOKATIV": "Denise"
   },
   {
     "IMENA": "Desa",
@@ -1056,24 +1224,32 @@
     "VOKATIV": "Despote"
   },
   {
-    "IMENA": "Dea",
-    "VOKATIV": "Dea"
-  },
-  {
     "IMENA": "Deva",
     "VOKATIV": "Devo"
+  },
+  {
+    "IMENA": "Dijana",
+    "VOKATIV": "Dijana"
   },
   {
     "IMENA": "Dikosava",
     "VOKATIV": "Dikosava"
   },
   {
+    "IMENA": "Dimčo",
+    "VOKATIV": "Dimčo"
+  },
+  {
+    "IMENA": "Dimitra",
+    "VOKATIV": "Dimitra"
+  },
+  {
     "IMENA": "Dimitrije",
     "VOKATIV": "Dimitrije"
   },
   {
-    "IMENA": "Dimčo",
-    "VOKATIV": "Dimčo"
+    "IMENA": "Dino",
+    "VOKATIV": "Dino"
   },
   {
     "IMENA": "Dionisije",
@@ -1084,12 +1260,12 @@
     "VOKATIV": "Divna"
   },
   {
-    "IMENA": "Dmitar",
-    "VOKATIV": "Dmitre"
+    "IMENA": "Djordje",
+    "VOKATIV": "Đorđe"
   },
   {
-    "IMENA": "Dimitra",
-    "VOKATIV": "Dimitra"
+    "IMENA": "Dmitar",
+    "VOKATIV": "Dmitre"
   },
   {
     "IMENA": "Dobrašin",
@@ -1176,6 +1352,14 @@
     "VOKATIV": "Dojčine"
   },
   {
+    "IMENA": "Đoka",
+    "VOKATIV": "Đoko"
+  },
+  {
+    "IMENA": "Đokica",
+    "VOKATIV": "Đokice"
+  },
+  {
     "IMENA": "Dokna",
     "VOKATIV": "Dokna"
   },
@@ -1184,8 +1368,32 @@
     "VOKATIV": "Doko"
   },
   {
+    "IMENA": "Đoko",
+    "VOKATIV": "Đoko"
+  },
+  {
     "IMENA": "Dora",
     "VOKATIV": "Dora"
+  },
+  {
+    "IMENA": "Đora",
+    "VOKATIV": "Đoro"
+  },
+  {
+    "IMENA": "Đorđe",
+    "VOKATIV": "Đorđe"
+  },
+  {
+    "IMENA": "Đorđije",
+    "VOKATIV": "Đorđije"
+  },
+  {
+    "IMENA": "Đorđina",
+    "VOKATIV": "Đorđina"
+  },
+  {
+    "IMENA": "Đorđo",
+    "VOKATIV": "Đorđo"
   },
   {
     "IMENA": "Doris",
@@ -1228,6 +1436,10 @@
     "VOKATIV": "Dragi"
   },
   {
+    "IMENA": "Dragić",
+    "VOKATIV": "Dragiću"
+  },
+  {
     "IMENA": "Dragica",
     "VOKATIV": "Dragice"
   },
@@ -1240,20 +1452,16 @@
     "VOKATIV": "Draginja"
   },
   {
+    "IMENA": "Dragiša",
+    "VOKATIV": "Dragiša"
+  },
+  {
     "IMENA": "Dragisav",
     "VOKATIV": "Dragisave"
   },
   {
     "IMENA": "Dragislav",
     "VOKATIV": "Dragislave"
-  },
-  {
-    "IMENA": "Dragić",
-    "VOKATIV": "Dragiću"
-  },
-  {
-    "IMENA": "Dragiša",
-    "VOKATIV": "Dragiša"
   },
   {
     "IMENA": "Drago",
@@ -1308,6 +1516,10 @@
     "VOKATIV": "Dragorade"
   },
   {
+    "IMENA": "Dragoš",
+    "VOKATIV": "Dragoše"
+  },
+  {
     "IMENA": "Dragosav",
     "VOKATIV": "Dragosave"
   },
@@ -1332,10 +1544,6 @@
     "VOKATIV": "Dragovane"
   },
   {
-    "IMENA": "Dragoš",
-    "VOKATIV": "Dragoše"
-  },
-  {
     "IMENA": "Dragutin",
     "VOKATIV": "Dragutine"
   },
@@ -1346,6 +1554,10 @@
   {
     "IMENA": "Drakša",
     "VOKATIV": "Drakša"
+  },
+  {
+    "IMENA": "Drasko",
+    "VOKATIV": "Draško"
   },
   {
     "IMENA": "Draško",
@@ -1360,12 +1572,12 @@
     "VOKATIV": "Draže"
   },
   {
-    "IMENA": "Dražen",
-    "VOKATIV": "Dražene"
-  },
-  {
     "IMENA": "Draže",
     "VOKATIV": "Draže"
+  },
+  {
+    "IMENA": "Dražen",
+    "VOKATIV": "Dražene"
   },
   {
     "IMENA": "Dražimir",
@@ -1416,12 +1628,104 @@
     "VOKATIV": "Duko"
   },
   {
+    "IMENA": "Đuka",
+    "VOKATIV": "Đuko"
+  },
+  {
     "IMENA": "Dukadin",
     "VOKATIV": "Dukadine"
   },
   {
+    "IMENA": "Đukan",
+    "VOKATIV": "Đukane"
+  },
+  {
+    "IMENA": "Đulijana",
+    "VOKATIV": "Đulijana"
+  },
+  {
     "IMENA": "Dunja",
     "VOKATIV": "Dunja"
+  },
+  {
+    "IMENA": "Đura",
+    "VOKATIV": "Đuro"
+  },
+  {
+    "IMENA": "Đurađ",
+    "VOKATIV": "Đurađe"
+  },
+  {
+    "IMENA": "Đuran",
+    "VOKATIV": "Đurane"
+  },
+  {
+    "IMENA": "Đuraš",
+    "VOKATIV": "Đuraše"
+  },
+  {
+    "IMENA": "Đurašin",
+    "VOKATIV": "Đurašine"
+  },
+  {
+    "IMENA": "Đuraško",
+    "VOKATIV": "Đuraško"
+  },
+  {
+    "IMENA": "Đurđa",
+    "VOKATIV": "Đurđa"
+  },
+  {
+    "IMENA": "Đurđe",
+    "VOKATIV": "Đurđe"
+  },
+  {
+    "IMENA": "Đurđevka",
+    "VOKATIV": "Đurđevka"
+  },
+  {
+    "IMENA": "Đurđica",
+    "VOKATIV": "Đurđice"
+  },
+  {
+    "IMENA": "Đurđija",
+    "VOKATIV": "Đurđija"
+  },
+  {
+    "IMENA": "Đurđijana",
+    "VOKATIV": "Đurđijana"
+  },
+  {
+    "IMENA": "Đurđina",
+    "VOKATIV": "Đurđina"
+  },
+  {
+    "IMENA": "Đurica",
+    "VOKATIV": "Đurice"
+  },
+  {
+    "IMENA": "Đuriša",
+    "VOKATIV": "Đuriša"
+  },
+  {
+    "IMENA": "Đurisav",
+    "VOKATIV": "Đurisave"
+  },
+  {
+    "IMENA": "Đurisava",
+    "VOKATIV": "Đurisava"
+  },
+  {
+    "IMENA": "Đurko",
+    "VOKATIV": "Đurko"
+  },
+  {
+    "IMENA": "Đuro",
+    "VOKATIV": "Đuro"
+  },
+  {
+    "IMENA": "Dusan",
+    "VOKATIV": "Dušane"
   },
   {
     "IMENA": "Dušan",
@@ -1452,8 +1756,12 @@
     "VOKATIV": "Dvorka"
   },
   {
-    "IMENA": "Evgenija",
-    "VOKATIV": "Evgenija"
+    "IMENA": "Dzemil",
+    "VOKATIV": "Džemile"
+  },
+  {
+    "IMENA": "Edis",
+    "VOKATIV": "Edise"
   },
   {
     "IMENA": "Ekatarina",
@@ -1524,6 +1832,10 @@
     "VOKATIV": "Evgenija"
   },
   {
+    "IMENA": "Evgenija",
+    "VOKATIV": "Evgenija"
+  },
+  {
     "IMENA": "Evgenije",
     "VOKATIV": "Evgenije"
   },
@@ -1588,6 +1900,10 @@
     "VOKATIV": "Gabrijela"
   },
   {
+    "IMENA": "Gača",
+    "VOKATIV": "Gačo"
+  },
+  {
     "IMENA": "Gaga",
     "VOKATIV": "Gago"
   },
@@ -1622,10 +1938,6 @@
   {
     "IMENA": "Gavro",
     "VOKATIV": "Gavro"
-  },
-  {
-    "IMENA": "Gača",
-    "VOKATIV": "Gačo"
   },
   {
     "IMENA": "Genadije",
@@ -1700,6 +2012,14 @@
     "VOKATIV": "Goranka"
   },
   {
+    "IMENA": "Gorčilo",
+    "VOKATIV": "Gorčilo"
+  },
+  {
+    "IMENA": "Gorčin",
+    "VOKATIV": "Gorčine"
+  },
+  {
     "IMENA": "Gordan",
     "VOKATIV": "Gordane"
   },
@@ -1722,14 +2042,6 @@
   {
     "IMENA": "Goroljub",
     "VOKATIV": "Goroljube"
-  },
-  {
-    "IMENA": "Gorčilo",
-    "VOKATIV": "Gorčilo"
-  },
-  {
-    "IMENA": "Gorčin",
-    "VOKATIV": "Gorčine"
   },
   {
     "IMENA": "Gospana",
@@ -1796,20 +2108,20 @@
     "VOKATIV": "Grubače"
   },
   {
-    "IMENA": "Gruban",
-    "VOKATIV": "Grubane"
-  },
-  {
     "IMENA": "Grubač",
     "VOKATIV": "Grubače"
   },
   {
-    "IMENA": "Grubeta",
-    "VOKATIV": "Grubeta"
+    "IMENA": "Gruban",
+    "VOKATIV": "Grubane"
   },
   {
     "IMENA": "Grubeša",
     "VOKATIV": "Grubeša"
+  },
+  {
+    "IMENA": "Grubeta",
+    "VOKATIV": "Grubeta"
   },
   {
     "IMENA": "Grubiša",
@@ -1856,6 +2168,10 @@
     "VOKATIV": "Hranimire"
   },
   {
+    "IMENA": "Hraniša",
+    "VOKATIV": "Hraniša"
+  },
+  {
     "IMENA": "Hranislav",
     "VOKATIV": "Hranislave"
   },
@@ -1866,10 +2182,6 @@
   {
     "IMENA": "Hranislavka",
     "VOKATIV": "Hranislavka"
-  },
-  {
-    "IMENA": "Hraniša",
-    "VOKATIV": "Hraniša"
   },
   {
     "IMENA": "Hrastimir",
@@ -1898,6 +2210,10 @@
   {
     "IMENA": "Hristoslav",
     "VOKATIV": "Hristoslave"
+  },
+  {
+    "IMENA": "Husnija",
+    "VOKATIV": "Husnija"
   },
   {
     "IMENA": "Hvalimir",
@@ -1938,6 +2254,10 @@
   {
     "IMENA": "Ilinko",
     "VOKATIV": "Ilinko"
+  },
+  {
+    "IMENA": "Ina",
+    "VOKATIV": "Ina"
   },
   {
     "IMENA": "Irena",
@@ -2016,10 +2336,6 @@
     "VOKATIV": "Ivona"
   },
   {
-    "IMENA": "Ina",
-    "VOKATIV": "Ina"
-  },
-  {
     "IMENA": "Jablan",
     "VOKATIV": "Jablane"
   },
@@ -2060,6 +2376,10 @@
     "VOKATIV": "Jano"
   },
   {
+    "IMENA": "Janča",
+    "VOKATIV": "Janča"
+  },
+  {
     "IMENA": "Jandre",
     "VOKATIV": "Jandre"
   },
@@ -2084,12 +2404,12 @@
     "VOKATIV": "Janko"
   },
   {
-    "IMENA": "Janovka",
-    "VOKATIV": "Janovka"
+    "IMENA": "Janoš",
+    "VOKATIV": "Janoše"
   },
   {
-    "IMENA": "Janča",
-    "VOKATIV": "Janča"
+    "IMENA": "Janovka",
+    "VOKATIV": "Janovka"
   },
   {
     "IMENA": "Jaroslav",
@@ -2216,8 +2536,16 @@
     "VOKATIV": "Jerko"
   },
   {
+    "IMENA": "Jerotija",
+    "VOKATIV": "Jerotija"
+  },
+  {
     "IMENA": "Jerotije",
     "VOKATIV": "Jerotije"
+  },
+  {
+    "IMENA": "Ješa",
+    "VOKATIV": "Ješo"
   },
   {
     "IMENA": "Jesenko",
@@ -2262,10 +2590,6 @@
   {
     "IMENA": "Jezdimir",
     "VOKATIV": "Jezdimire"
-  },
-  {
-    "IMENA": "Ješa",
-    "VOKATIV": "Ješo"
   },
   {
     "IMENA": "Joakim",
@@ -2440,12 +2764,12 @@
     "VOKATIV": "Kazimire"
   },
   {
-    "IMENA": "Kazimira",
-    "VOKATIV": "Kazimira"
-  },
-  {
     "IMENA": "Kažimir",
     "VOKATIV": "Kažimire"
+  },
+  {
+    "IMENA": "Kazimira",
+    "VOKATIV": "Kazimira"
   },
   {
     "IMENA": "Kiprijan",
@@ -2466,6 +2790,10 @@
   {
     "IMENA": "Kleopatra",
     "VOKATIV": "Kleopatra"
+  },
+  {
+    "IMENA": "Koča",
+    "VOKATIV": "Koča"
   },
   {
     "IMENA": "Kojadin",
@@ -2536,6 +2864,10 @@
     "VOKATIV": "Kostadinka"
   },
   {
+    "IMENA": "Koštana",
+    "VOKATIV": "Koštana"
+  },
+  {
     "IMENA": "Kovana",
     "VOKATIV": "Kovana"
   },
@@ -2558,14 +2890,6 @@
   {
     "IMENA": "Kozma",
     "VOKATIV": "Kozma"
-  },
-  {
-    "IMENA": "Koča",
-    "VOKATIV": "Koča"
-  },
-  {
-    "IMENA": "Koštana",
-    "VOKATIV": "Koštana"
   },
   {
     "IMENA": "Kraguj",
@@ -2594,6 +2918,14 @@
   {
     "IMENA": "Krasoje",
     "VOKATIV": "Krasoje"
+  },
+  {
+    "IMENA": "Kristian",
+    "VOKATIV": "Kristiane"
+  },
+  {
+    "IMENA": "Kristijan",
+    "VOKATIV": "Kristijane"
   },
   {
     "IMENA": "Kristina",
@@ -2728,6 +3060,10 @@
     "VOKATIV": "Latinka"
   },
   {
+    "IMENA": "Lav",
+    "VOKATIV": "Lave"
+  },
+  {
     "IMENA": "Laza",
     "VOKATIV": "Lazo"
   },
@@ -2738,6 +3074,10 @@
   {
     "IMENA": "Lazo",
     "VOKATIV": "Lazo"
+  },
+  {
+    "IMENA": "Lea",
+    "VOKATIV": "Lea"
   },
   {
     "IMENA": "Lela",
@@ -2856,6 +3196,10 @@
     "VOKATIV": "Ljubinko"
   },
   {
+    "IMENA": "Ljubiša",
+    "VOKATIV": "Ljubiša"
+  },
+  {
     "IMENA": "Ljubisav",
     "VOKATIV": "Ljubisave"
   },
@@ -2870,10 +3214,6 @@
   {
     "IMENA": "Ljubivoje",
     "VOKATIV": "Ljubivoje"
-  },
-  {
-    "IMENA": "Ljubiša",
-    "VOKATIV": "Ljubiša"
   },
   {
     "IMENA": "Ljubo",
@@ -2908,16 +3248,16 @@
     "VOKATIV": "Ljubosava"
   },
   {
+    "IMENA": "Ljupče",
+    "VOKATIV": "Ljupče"
+  },
+  {
     "IMENA": "Ljupka",
     "VOKATIV": "Ljupka"
   },
   {
     "IMENA": "Ljupko",
     "VOKATIV": "Ljupko"
-  },
-  {
-    "IMENA": "Ljupče",
-    "VOKATIV": "Ljupče"
   },
   {
     "IMENA": "Lola",
@@ -2944,8 +3284,16 @@
     "VOKATIV": "Lozinka"
   },
   {
+    "IMENA": "Luča",
+    "VOKATIV": "Luča"
+  },
+  {
     "IMENA": "Lucija",
     "VOKATIV": "Lucija"
+  },
+  {
+    "IMENA": "Lučija",
+    "VOKATIV": "Lučija"
   },
   {
     "IMENA": "Lujo",
@@ -2960,20 +3308,16 @@
     "VOKATIV": "Luna"
   },
   {
-    "IMENA": "Luča",
-    "VOKATIV": "Luča"
-  },
-  {
-    "IMENA": "Lučija",
-    "VOKATIV": "Lučija"
-  },
-  {
     "IMENA": "Magda",
     "VOKATIV": "Magda"
   },
   {
     "IMENA": "Magdalena",
     "VOKATIV": "Magdalena"
+  },
+  {
+    "IMENA": "Maiden",
+    "VOKATIV": "Maidene"
   },
   {
     "IMENA": "Maja",
@@ -3004,12 +3348,12 @@
     "VOKATIV": "Maksimilijane"
   },
   {
-    "IMENA": "Maleta",
-    "VOKATIV": "Maleta"
-  },
-  {
     "IMENA": "Maleš",
     "VOKATIV": "Maleše"
+  },
+  {
+    "IMENA": "Maleta",
+    "VOKATIV": "Maleta"
   },
   {
     "IMENA": "Malina",
@@ -3034,6 +3378,10 @@
   {
     "IMENA": "Mane",
     "VOKATIV": "Mane"
+  },
+  {
+    "IMENA": "Manja",
+    "VOKATIV": "Manja"
   },
   {
     "IMENA": "Manojlo",
@@ -3100,6 +3448,22 @@
     "VOKATIV": "Martine"
   },
   {
+    "IMENA": "Maša",
+    "VOKATIV": "Mašo"
+  },
+  {
+    "IMENA": "Mašan",
+    "VOKATIV": "Mašane"
+  },
+  {
+    "IMENA": "Mašinka",
+    "VOKATIV": "Mašinka"
+  },
+  {
+    "IMENA": "Maško",
+    "VOKATIV": "Maško"
+  },
+  {
     "IMENA": "Matej",
     "VOKATIV": "Matej"
   },
@@ -3124,22 +3488,6 @@
     "VOKATIV": "Mavrene"
   },
   {
-    "IMENA": "Maša",
-    "VOKATIV": "Mašo"
-  },
-  {
-    "IMENA": "Mašan",
-    "VOKATIV": "Mašane"
-  },
-  {
-    "IMENA": "Mašinka",
-    "VOKATIV": "Mašinka"
-  },
-  {
-    "IMENA": "Maško",
-    "VOKATIV": "Maško"
-  },
-  {
     "IMENA": "Medak",
     "VOKATIV": "Medače"
   },
@@ -3162,6 +3510,38 @@
   {
     "IMENA": "Metohija",
     "VOKATIV": "Metohijo"
+  },
+  {
+    "IMENA": "Mia",
+    "VOKATIV": "Mia"
+  },
+  {
+    "IMENA": "Mića",
+    "VOKATIV": "Mićo"
+  },
+  {
+    "IMENA": "Mićan",
+    "VOKATIV": "Mićane"
+  },
+  {
+    "IMENA": "Michal",
+    "VOKATIV": "Michal"
+  },
+  {
+    "IMENA": "Mićko",
+    "VOKATIV": "Mićko"
+  },
+  {
+    "IMENA": "Mićo",
+    "VOKATIV": "Mićo"
+  },
+  {
+    "IMENA": "Mićun",
+    "VOKATIV": "Mićune"
+  },
+  {
+    "IMENA": "Mihaela",
+    "VOKATIV": "Mihaela"
   },
   {
     "IMENA": "Mihailo",
@@ -3220,10 +3600,6 @@
     "VOKATIV": "Mikailo"
   },
   {
-    "IMENA": "Mikica",
-    "VOKATIV": "Mikice"
-  },
-  {
     "IMENA": "Mikaina",
     "VOKATIV": "Mikaina"
   },
@@ -3232,16 +3608,20 @@
     "VOKATIV": "Mikane"
   },
   {
+    "IMENA": "Mikica",
+    "VOKATIV": "Mikice"
+  },
+  {
     "IMENA": "Mikonja",
     "VOKATIV": "Mikonja"
   },
   {
-    "IMENA": "Mikosava",
-    "VOKATIV": "Mikosava"
-  },
-  {
     "IMENA": "Mikoš",
     "VOKATIV": "Mikoše"
+  },
+  {
+    "IMENA": "Mikosava",
+    "VOKATIV": "Mikosava"
   },
   {
     "IMENA": "Mila",
@@ -3280,16 +3660,16 @@
     "VOKATIV": "Milanko"
   },
   {
-    "IMENA": "Milat",
-    "VOKATIV": "Milate"
-  },
-  {
     "IMENA": "Milaš",
     "VOKATIV": "Milaše"
   },
   {
     "IMENA": "Milašin",
     "VOKATIV": "Milašine"
+  },
+  {
+    "IMENA": "Milat",
+    "VOKATIV": "Milate"
   },
   {
     "IMENA": "Mile",
@@ -3320,6 +3700,10 @@
     "VOKATIV": "Milentije"
   },
   {
+    "IMENA": "Mileš",
+    "VOKATIV": "Mileše"
+  },
+  {
     "IMENA": "Milesa",
     "VOKATIV": "Milesa"
   },
@@ -3336,16 +3720,20 @@
     "VOKATIV": "Milevka"
   },
   {
-    "IMENA": "Mileš",
-    "VOKATIV": "Mileše"
-  },
-  {
     "IMENA": "Mili",
     "VOKATIV": "Mili"
   },
   {
+    "IMENA": "Milić",
+    "VOKATIV": "Miliću"
+  },
+  {
     "IMENA": "Milica",
     "VOKATIV": "Milice"
+  },
+  {
+    "IMENA": "Miličko",
+    "VOKATIV": "Miličko"
   },
   {
     "IMENA": "Milija",
@@ -3392,6 +3780,10 @@
     "VOKATIV": "Milinko"
   },
   {
+    "IMENA": "Miliša",
+    "VOKATIV": "Miliša"
+  },
+  {
     "IMENA": "Milisav",
     "VOKATIV": "Milisave"
   },
@@ -3414,18 +3806,6 @@
   {
     "IMENA": "Milivojka",
     "VOKATIV": "Milivojka"
-  },
-  {
-    "IMENA": "Milić",
-    "VOKATIV": "Miliću"
-  },
-  {
-    "IMENA": "Miličko",
-    "VOKATIV": "Miličko"
-  },
-  {
-    "IMENA": "Miliša",
-    "VOKATIV": "Miliša"
   },
   {
     "IMENA": "Milja",
@@ -3536,6 +3916,14 @@
     "VOKATIV": "Milorade"
   },
   {
+    "IMENA": "Milos",
+    "VOKATIV": "Miloše"
+  },
+  {
+    "IMENA": "Miloš",
+    "VOKATIV": "Miloše"
+  },
+  {
     "IMENA": "Milosav",
     "VOKATIV": "Milosave"
   },
@@ -3564,10 +3952,6 @@
     "VOKATIV": "Milovanka"
   },
   {
-    "IMENA": "Miloš",
-    "VOKATIV": "Miloše"
-  },
-  {
     "IMENA": "Milten",
     "VOKATIV": "Miltene"
   },
@@ -3592,16 +3976,16 @@
     "VOKATIV": "Milunka"
   },
   {
-    "IMENA": "Milutin",
-    "VOKATIV": "Milutine"
-  },
-  {
     "IMENA": "Miluš",
     "VOKATIV": "Miluše"
   },
   {
     "IMENA": "Miluša",
     "VOKATIV": "Miluša"
+  },
+  {
+    "IMENA": "Milutin",
+    "VOKATIV": "Milutine"
   },
   {
     "IMENA": "Mina",
@@ -3650,6 +4034,14 @@
   {
     "IMENA": "Miraš",
     "VOKATIV": "Miraše"
+  },
+  {
+    "IMENA": "Mirča",
+    "VOKATIV": "Mirča"
+  },
+  {
+    "IMENA": "Mirčeta",
+    "VOKATIV": "Mirčeta"
   },
   {
     "IMENA": "Miren",
@@ -3708,44 +4100,8 @@
     "VOKATIV": "Miroslavka"
   },
   {
-    "IMENA": "Mirča",
-    "VOKATIV": "Mirča"
-  },
-  {
-    "IMENA": "Mirčeta",
-    "VOKATIV": "Mirčeta"
-  },
-  {
-    "IMENA": "Mita",
-    "VOKATIV": "Mito"
-  },
-  {
-    "IMENA": "Mitar",
-    "VOKATIV": "Mitre"
-  },
-  {
-    "IMENA": "Mitra",
-    "VOKATIV": "Mitra"
-  },
-  {
-    "IMENA": "Mića",
-    "VOKATIV": "Mićo"
-  },
-  {
-    "IMENA": "Mićan",
-    "VOKATIV": "Mićane"
-  },
-  {
-    "IMENA": "Mićko",
-    "VOKATIV": "Mićko"
-  },
-  {
-    "IMENA": "Mićo",
-    "VOKATIV": "Mićo"
-  },
-  {
-    "IMENA": "Mićun",
-    "VOKATIV": "Mićune"
+    "IMENA": "Misa",
+    "VOKATIV": "Mišo"
   },
   {
     "IMENA": "Miša",
@@ -3764,8 +4120,28 @@
     "VOKATIV": "Mišo"
   },
   {
+    "IMENA": "Mita",
+    "VOKATIV": "Mito"
+  },
+  {
+    "IMENA": "Mitar",
+    "VOKATIV": "Mitre"
+  },
+  {
+    "IMENA": "Mitra",
+    "VOKATIV": "Mitra"
+  },
+  {
+    "IMENA": "Mlađan",
+    "VOKATIV": "Mlađane"
+  },
+  {
     "IMENA": "Mladen",
     "VOKATIV": "Mladene"
+  },
+  {
+    "IMENA": "Mlađen",
+    "VOKATIV": "Mlađene"
   },
   {
     "IMENA": "Mladena",
@@ -3780,14 +4156,6 @@
     "VOKATIV": "Mladomire"
   },
   {
-    "IMENA": "Mlađan",
-    "VOKATIV": "Mlađane"
-  },
-  {
-    "IMENA": "Mlađen",
-    "VOKATIV": "Mlađene"
-  },
-  {
     "IMENA": "Mojaš",
     "VOKATIV": "Mojaše"
   },
@@ -3798,6 +4166,10 @@
   {
     "IMENA": "Momcilo",
     "VOKATIV": "Mimcilo"
+  },
+  {
+    "IMENA": "Momčilo",
+    "VOKATIV": "Momčilo"
   },
   {
     "IMENA": "Momir",
@@ -3812,20 +4184,12 @@
     "VOKATIV": "Momirka"
   },
   {
-    "IMENA": "Momčilo",
-    "VOKATIV": "Momčilo"
-  },
-  {
     "IMENA": "Monika",
     "VOKATIV": "Monika"
   },
   {
     "IMENA": "Moša",
     "VOKATIV": "Mošo"
-  },
-  {
-    "IMENA": "Mrkša",
-    "VOKATIV": "Mrkša"
   },
   {
     "IMENA": "Mrđan",
@@ -3836,8 +4200,20 @@
     "VOKATIV": "Mrđene"
   },
   {
+    "IMENA": "Mrkša",
+    "VOKATIV": "Mrkša"
+  },
+  {
+    "IMENA": "Muhamed",
+    "VOKATIV": "Muhamede"
+  },
+  {
     "IMENA": "Nada",
     "VOKATIV": "Nado"
+  },
+  {
+    "IMENA": "Nađa",
+    "VOKATIV": "Nađa"
   },
   {
     "IMENA": "Nadežda",
@@ -3856,6 +4232,10 @@
     "VOKATIV": "Najdane"
   },
   {
+    "IMENA": "Nana",
+    "VOKATIV": "Nano"
+  },
+  {
     "IMENA": "Nastasija",
     "VOKATIV": "Nastasija"
   },
@@ -3868,6 +4248,10 @@
     "VOKATIV": "Natalija"
   },
   {
+    "IMENA": "Natasa",
+    "VOKATIV": "Nataša"
+  },
+  {
     "IMENA": "Nataša",
     "VOKATIV": "Nataša"
   },
@@ -3876,8 +4260,8 @@
     "VOKATIV": "Naume"
   },
   {
-    "IMENA": "Nađa",
-    "VOKATIV": "Nađa"
+    "IMENA": "Nebojsa",
+    "VOKATIV": "Nebojša"
   },
   {
     "IMENA": "Nebojša",
@@ -3892,8 +4276,20 @@
     "VOKATIV": "Nedeljka"
   },
   {
+    "IMENA": "Neđeljka",
+    "VOKATIV": "Neđeljka"
+  },
+  {
     "IMENA": "Nedeljko",
     "VOKATIV": "Nedeljko"
+  },
+  {
+    "IMENA": "Neđeljko",
+    "VOKATIV": "Neđeljko"
+  },
+  {
+    "IMENA": "Neđo",
+    "VOKATIV": "Neđo"
   },
   {
     "IMENA": "Negica",
@@ -3944,6 +4340,10 @@
     "VOKATIV": "Nenade"
   },
   {
+    "IMENA": "Neško",
+    "VOKATIV": "Neško"
+  },
+  {
     "IMENA": "Nestor",
     "VOKATIV": "Nestore"
   },
@@ -3964,20 +4364,8 @@
     "VOKATIV": "Nevenko"
   },
   {
-    "IMENA": "Neđeljka",
-    "VOKATIV": "Neđeljka"
-  },
-  {
-    "IMENA": "Neđeljko",
-    "VOKATIV": "Neđeljko"
-  },
-  {
-    "IMENA": "Neđo",
-    "VOKATIV": "Neđo"
-  },
-  {
-    "IMENA": "Neško",
-    "VOKATIV": "Neško"
+    "IMENA": "Nićifor",
+    "VOKATIV": "Nićifore"
   },
   {
     "IMENA": "Nikašin",
@@ -4036,10 +4424,6 @@
     "VOKATIV": "Ninoslava"
   },
   {
-    "IMENA": "Nićifor",
-    "VOKATIV": "Nićifore"
-  },
-  {
     "IMENA": "Nišava",
     "VOKATIV": "Nišava"
   },
@@ -4054,6 +4438,10 @@
   {
     "IMENA": "Njegomirka",
     "VOKATIV": "Njegomirka"
+  },
+  {
+    "IMENA": "Njegoš",
+    "VOKATIV": "Njegošu"
   },
   {
     "IMENA": "Njegosav",
@@ -4074,10 +4462,6 @@
   {
     "IMENA": "Njegovan",
     "VOKATIV": "Njegovane"
-  },
-  {
-    "IMENA": "Njegoš",
-    "VOKATIV": "Njegošu"
   },
   {
     "IMENA": "Njeguš",
@@ -4192,6 +4576,10 @@
     "VOKATIV": "Olja"
   },
   {
+    "IMENA": "Oskar",
+    "VOKATIV": "Oskare"
+  },
+  {
     "IMENA": "Ostoja",
     "VOKATIV": "Ostoja"
   },
@@ -4252,12 +4640,12 @@
     "VOKATIV": "Pavo"
   },
   {
-    "IMENA": "Pavija",
-    "VOKATIV": "Pavija"
-  },
-  {
     "IMENA": "Pavić",
     "VOKATIV": "Paviću"
+  },
+  {
+    "IMENA": "Pavija",
+    "VOKATIV": "Pavija"
   },
   {
     "IMENA": "Pavka",
@@ -4272,6 +4660,10 @@
     "VOKATIV": "Pavle"
   },
   {
+    "IMENA": "Pavlić",
+    "VOKATIV": "Pavliću"
+  },
+  {
     "IMENA": "Pavlija",
     "VOKATIV": "Pavija"
   },
@@ -4280,8 +4672,8 @@
     "VOKATIV": "Pavlina"
   },
   {
-    "IMENA": "Pavlić",
-    "VOKATIV": "Pavliću"
+    "IMENA": "Peđa",
+    "VOKATIV": "Peđa"
   },
   {
     "IMENA": "Pejak",
@@ -4512,6 +4904,10 @@
     "VOKATIV": "Puro"
   },
   {
+    "IMENA": "Račeta",
+    "VOKATIV": "Račeta"
+  },
+  {
     "IMENA": "Racko",
     "VOKATIV": "Racko"
   },
@@ -4552,6 +4948,10 @@
     "VOKATIV": "Radene"
   },
   {
+    "IMENA": "Rađen",
+    "VOKATIV": "Rađene"
+  },
+  {
     "IMENA": "Radena",
     "VOKATIV": "Radena"
   },
@@ -4566,6 +4966,10 @@
   {
     "IMENA": "Radeta",
     "VOKATIV": "Radeta"
+  },
+  {
+    "IMENA": "Radič",
+    "VOKATIV": "Radiče"
   },
   {
     "IMENA": "Radica",
@@ -4596,6 +5000,10 @@
     "VOKATIV": "Radinko"
   },
   {
+    "IMENA": "Radiša",
+    "VOKATIV": "Radiša"
+  },
+  {
     "IMENA": "Radisav",
     "VOKATIV": "Radisave"
   },
@@ -4622,14 +5030,6 @@
   {
     "IMENA": "Radivojka",
     "VOKATIV": "Radivojka"
-  },
-  {
-    "IMENA": "Radič",
-    "VOKATIV": "Radiče"
-  },
-  {
-    "IMENA": "Radiša",
-    "VOKATIV": "Radiša"
   },
   {
     "IMENA": "Radman",
@@ -4712,6 +5112,10 @@
     "VOKATIV": "Radonja"
   },
   {
+    "IMENA": "Radoš",
+    "VOKATIV": "Radoše"
+  },
+  {
     "IMENA": "Radosav",
     "VOKATIV": "Radosave"
   },
@@ -4752,10 +5156,6 @@
     "VOKATIV": "Radovinka"
   },
   {
-    "IMENA": "Radoš",
-    "VOKATIV": "Radoše"
-  },
-  {
     "IMENA": "Raduka",
     "VOKATIV": "Raduka"
   },
@@ -4792,12 +5192,12 @@
     "VOKATIV": "Radunka"
   },
   {
-    "IMENA": "Radusin",
-    "VOKATIV": "Radusine"
-  },
-  {
     "IMENA": "Raduša",
     "VOKATIV": "Raduša"
+  },
+  {
+    "IMENA": "Radusin",
+    "VOKATIV": "Radusine"
   },
   {
     "IMENA": "Raduška",
@@ -4808,20 +5208,20 @@
     "VOKATIV": "Rafailo"
   },
   {
-    "IMENA": "Raica",
-    "VOKATIV": "Raice"
-  },
-  {
-    "IMENA": "Rain",
-    "VOKATIV": "Raine"
-  },
-  {
     "IMENA": "Raič",
     "VOKATIV": "Raiče"
   },
   {
+    "IMENA": "Raica",
+    "VOKATIV": "Raice"
+  },
+  {
     "IMENA": "Raičko",
     "VOKATIV": "Raičko"
+  },
+  {
+    "IMENA": "Rain",
+    "VOKATIV": "Raine"
   },
   {
     "IMENA": "Rajak",
@@ -4830,6 +5230,10 @@
   {
     "IMENA": "Rajan",
     "VOKATIV": "Rajane"
+  },
+  {
+    "IMENA": "Rajčeta",
+    "VOKATIV": "Rajčeta"
   },
   {
     "IMENA": "Rajica",
@@ -4848,16 +5252,20 @@
     "VOKATIV": "Rajna"
   },
   {
-    "IMENA": "Rajčeta",
-    "VOKATIV": "Rajčeta"
-  },
-  {
     "IMENA": "Ralen",
     "VOKATIV": "Ralene"
   },
   {
     "IMENA": "Raleta",
     "VOKATIV": "Raleta"
+  },
+  {
+    "IMENA": "Ranđa",
+    "VOKATIV": "Ranđo"
+  },
+  {
+    "IMENA": "Ranđel",
+    "VOKATIV": "Ranđele"
   },
   {
     "IMENA": "Ranisav",
@@ -4872,20 +5280,16 @@
     "VOKATIV": "Ranko"
   },
   {
-    "IMENA": "Ranđa",
-    "VOKATIV": "Ranđo"
-  },
-  {
-    "IMENA": "Ranđel",
-    "VOKATIV": "Ranđele"
-  },
-  {
     "IMENA": "Raosav",
     "VOKATIV": "Raosave"
   },
   {
     "IMENA": "Rasko",
     "VOKATIV": "Rasko"
+  },
+  {
+    "IMENA": "Raško",
+    "VOKATIV": "Raško"
   },
   {
     "IMENA": "Rastislav",
@@ -4928,24 +5332,16 @@
     "VOKATIV": "Razumenka"
   },
   {
-    "IMENA": "Račeta",
-    "VOKATIV": "Račeta"
-  },
-  {
-    "IMENA": "Rađen",
-    "VOKATIV": "Rađene"
-  },
-  {
-    "IMENA": "Raško",
-    "VOKATIV": "Raško"
-  },
-  {
     "IMENA": "Rekula",
     "VOKATIV": "Rekula"
   },
   {
     "IMENA": "Relja",
     "VOKATIV": "Relja"
+  },
+  {
+    "IMENA": "Remzo",
+    "VOKATIV": "Remzo"
   },
   {
     "IMENA": "Resan",
@@ -5008,14 +5404,6 @@
     "VOKATIV": "Rusmira"
   },
   {
-    "IMENA": "Ruzmarinka",
-    "VOKATIV": "Ruzmarinka"
-  },
-  {
-    "IMENA": "Ruzmirka",
-    "VOKATIV": "Ruzmirka"
-  },
-  {
     "IMENA": "Ruža",
     "VOKATIV": "Ružo"
   },
@@ -5024,12 +5412,36 @@
     "VOKATIV": "Ružice"
   },
   {
+    "IMENA": "Ruzmarinka",
+    "VOKATIV": "Ruzmarinka"
+  },
+  {
+    "IMENA": "Ruzmirka",
+    "VOKATIV": "Ruzmirka"
+  },
+  {
     "IMENA": "Sajka",
     "VOKATIV": "Sajka"
   },
   {
+    "IMENA": "Šako",
+    "VOKATIV": "Šako"
+  },
+  {
+    "IMENA": "Šakota",
+    "VOKATIV": "Šakota"
+  },
+  {
+    "IMENA": "Šale",
+    "VOKATIV": "Šale"
+  },
+  {
     "IMENA": "Samuilo",
     "VOKATIV": "Samuilo"
+  },
+  {
+    "IMENA": "Šana",
+    "VOKATIV": "Šano"
   },
   {
     "IMENA": "Sandra",
@@ -5046,6 +5458,14 @@
   {
     "IMENA": "Sara",
     "VOKATIV": "Saro"
+  },
+  {
+    "IMENA": "Sasa",
+    "VOKATIV": "Saša"
+  },
+  {
+    "IMENA": "Saša",
+    "VOKATIV": "Saša"
   },
   {
     "IMENA": "Sava",
@@ -5068,12 +5488,12 @@
     "VOKATIV": "Savetka"
   },
   {
-    "IMENA": "Savica",
-    "VOKATIV": "Savice"
-  },
-  {
     "IMENA": "Savić",
     "VOKATIV": "Saviću"
+  },
+  {
+    "IMENA": "Savica",
+    "VOKATIV": "Savice"
   },
   {
     "IMENA": "Savka",
@@ -5092,8 +5512,8 @@
     "VOKATIV": "Sazdana"
   },
   {
-    "IMENA": "Saša",
-    "VOKATIV": "Saša"
+    "IMENA": "Šćepan",
+    "VOKATIV": "Šćepane"
   },
   {
     "IMENA": "Sekana",
@@ -5200,14 +5620,6 @@
     "VOKATIV": "Sinadine"
   },
   {
-    "IMENA": "Siniša",
-    "VOKATIV": "Siniša"
-  },
-  {
-    "IMENA": "Sinđelija",
-    "VOKATIV": "Sinđelija"
-  },
-  {
     "IMENA": "Sinđa",
     "VOKATIV": "Sinđo"
   },
@@ -5220,12 +5632,40 @@
     "VOKATIV": "Sinđelija"
   },
   {
+    "IMENA": "Sinđelija",
+    "VOKATIV": "Sinđelija"
+  },
+  {
+    "IMENA": "Sinisa",
+    "VOKATIV": "Siniša"
+  },
+  {
+    "IMENA": "Siniša",
+    "VOKATIV": "Siniša"
+  },
+  {
+    "IMENA": "Šiško",
+    "VOKATIV": "Šiško"
+  },
+  {
     "IMENA": "Skorosav",
     "VOKATIV": "Skorosave"
   },
   {
     "IMENA": "Skorosava",
     "VOKATIV": "Skorosava"
+  },
+  {
+    "IMENA": "Slađan",
+    "VOKATIV": "Slađane"
+  },
+  {
+    "IMENA": "Slađana",
+    "VOKATIV": "Slađana"
+  },
+  {
+    "IMENA": "Slađanka",
+    "VOKATIV": "Slađanka"
   },
   {
     "IMENA": "Sladoje",
@@ -5292,18 +5732,6 @@
     "VOKATIV": "Slavujka"
   },
   {
-    "IMENA": "Slađan",
-    "VOKATIV": "Slađane"
-  },
-  {
-    "IMENA": "Slađana",
-    "VOKATIV": "Slađana"
-  },
-  {
-    "IMENA": "Slađanka",
-    "VOKATIV": "Slađanka"
-  },
-  {
     "IMENA": "Slobodan",
     "VOKATIV": "Slobodane"
   },
@@ -5346,6 +5774,10 @@
   {
     "IMENA": "Smoljka",
     "VOKATIV": "Smoljka"
+  },
+  {
+    "IMENA": "Snezana",
+    "VOKATIV": "Snežana"
   },
   {
     "IMENA": "Snežana",
@@ -5444,6 +5876,10 @@
     "VOKATIV": "Spiridone"
   },
   {
+    "IMENA": "Špiro",
+    "VOKATIV": "Špiro"
+  },
+  {
     "IMENA": "Spomenka",
     "VOKATIV": "Spomenka"
   },
@@ -5480,8 +5916,28 @@
     "VOKATIV": "Srboslave"
   },
   {
+    "IMENA": "Srđa",
+    "VOKATIV": "Srđo"
+  },
+  {
     "IMENA": "Srdan",
     "VOKATIV": "Srdane"
+  },
+  {
+    "IMENA": "Srđan",
+    "VOKATIV": "Srđane"
+  },
+  {
+    "IMENA": "Srdjan",
+    "VOKATIV": "Srđane"
+  },
+  {
+    "IMENA": "Srećan",
+    "VOKATIV": "Srećane"
+  },
+  {
+    "IMENA": "Srećko",
+    "VOKATIV": "Srećko"
   },
   {
     "IMENA": "Sredoja",
@@ -5512,24 +5968,8 @@
     "VOKATIV": "Sretoje"
   },
   {
-    "IMENA": "Srećan",
-    "VOKATIV": "Srećane"
-  },
-  {
-    "IMENA": "Srećko",
-    "VOKATIV": "Srećko"
-  },
-  {
     "IMENA": "Srpko",
     "VOKATIV": "Srpko"
-  },
-  {
-    "IMENA": "Srđa",
-    "VOKATIV": "Srđo"
-  },
-  {
-    "IMENA": "Srđan",
-    "VOKATIV": "Srđane"
   },
   {
     "IMENA": "Staja",
@@ -5580,12 +6020,12 @@
     "VOKATIV": "Stano"
   },
   {
-    "IMENA": "Stanava",
-    "VOKATIV": "Stanava"
-  },
-  {
     "IMENA": "Stanača",
     "VOKATIV": "Stanača"
+  },
+  {
+    "IMENA": "Stanava",
+    "VOKATIV": "Stanava"
   },
   {
     "IMENA": "Stanica",
@@ -5608,6 +6048,10 @@
     "VOKATIV": "Stanimirka"
   },
   {
+    "IMENA": "Staniša",
+    "VOKATIV": "Staniša"
+  },
+  {
     "IMENA": "Stanisav",
     "VOKATIV": "Stanisave"
   },
@@ -5626,10 +6070,6 @@
   {
     "IMENA": "Stanislavka",
     "VOKATIV": "Stanislavka"
-  },
-  {
-    "IMENA": "Staniša",
-    "VOKATIV": "Staniša"
   },
   {
     "IMENA": "Stanka",
@@ -5664,12 +6104,12 @@
     "VOKATIV": "Stanojlo"
   },
   {
-    "IMENA": "Stavra",
-    "VOKATIV": "Stavro"
-  },
-  {
     "IMENA": "Staša",
     "VOKATIV": "Stašo"
+  },
+  {
+    "IMENA": "Stavra",
+    "VOKATIV": "Stavro"
   },
   {
     "IMENA": "Stefan",
@@ -5720,6 +6160,10 @@
     "VOKATIV": "Stjepane"
   },
   {
+    "IMENA": "Stoić",
+    "VOKATIV": "Stoiću"
+  },
+  {
     "IMENA": "Stoiljko",
     "VOKATIV": "Stoiljko"
   },
@@ -5730,10 +6174,6 @@
   {
     "IMENA": "Stoisava",
     "VOKATIV": "Stoisava"
-  },
-  {
-    "IMENA": "Stoić",
-    "VOKATIV": "Stoiću"
   },
   {
     "IMENA": "Stoja",
@@ -5832,12 +6272,20 @@
     "VOKATIV": "Strujo"
   },
   {
+    "IMENA": "Šumenko",
+    "VOKATIV": "Šumenko"
+  },
+  {
     "IMENA": "Sunčanica",
     "VOKATIV": "Sunčanice"
   },
   {
     "IMENA": "Sunčica",
     "VOKATIV": "Sunčice"
+  },
+  {
+    "IMENA": "Šutan",
+    "VOKATIV": "Šutane"
   },
   {
     "IMENA": "Suzana",
@@ -5956,16 +6404,16 @@
     "VOKATIV": "Taro"
   },
   {
+    "IMENA": "Taško",
+    "VOKATIV": "Taško"
+  },
+  {
     "IMENA": "Tatjana",
     "VOKATIV": "Tatjana"
   },
   {
     "IMENA": "Tatomir",
     "VOKATIV": "Tatomire"
-  },
-  {
-    "IMENA": "Taško",
-    "VOKATIV": "Taško"
   },
   {
     "IMENA": "Tea",
@@ -5998,6 +6446,10 @@
   {
     "IMENA": "Teona",
     "VOKATIV": "Teona"
+  },
+  {
+    "IMENA": "Tereza",
+    "VOKATIV": "Tereza"
   },
   {
     "IMENA": "Tešan",
@@ -6116,12 +6568,12 @@
     "VOKATIV": "Trajanka"
   },
   {
-    "IMENA": "Trajko",
-    "VOKATIV": "Trajko"
-  },
-  {
     "IMENA": "Trajče",
     "VOKATIV": "Trajče"
+  },
+  {
+    "IMENA": "Trajko",
+    "VOKATIV": "Trajko"
   },
   {
     "IMENA": "Trifko",
@@ -6148,6 +6600,14 @@
     "VOKATIV": "Tripune"
   },
   {
+    "IMENA": "Triša",
+    "VOKATIV": "Trišo"
+  },
+  {
+    "IMENA": "Trišo",
+    "VOKATIV": "Trišo"
+  },
+  {
     "IMENA": "Triva",
     "VOKATIV": "Trivo"
   },
@@ -6162,14 +6622,6 @@
   {
     "IMENA": "Trivun",
     "VOKATIV": "Trivune"
-  },
-  {
-    "IMENA": "Triša",
-    "VOKATIV": "Trišo"
-  },
-  {
-    "IMENA": "Trišo",
-    "VOKATIV": "Trišo"
   },
   {
     "IMENA": "Trojan",
@@ -6224,6 +6676,10 @@
     "VOKATIV": "Uranko"
   },
   {
+    "IMENA": "Uros",
+    "VOKATIV": "Uroše"
+  },
+  {
     "IMENA": "Uroš",
     "VOKATIV": "Uroše"
   },
@@ -6242,6 +6698,10 @@
   {
     "IMENA": "Vajo",
     "VOKATIV": "Vajo"
+  },
+  {
+    "IMENA": "Valentina",
+    "VOKATIV": "Valentina"
   },
   {
     "IMENA": "Valerija",
@@ -6336,6 +6796,10 @@
     "VOKATIV": "Veliborka"
   },
   {
+    "IMENA": "Veličko",
+    "VOKATIV": "Veličko"
+  },
+  {
     "IMENA": "Velika",
     "VOKATIV": "Velika"
   },
@@ -6356,6 +6820,10 @@
     "VOKATIV": "Velinka"
   },
   {
+    "IMENA": "Veliša",
+    "VOKATIV": "Veliša"
+  },
+  {
     "IMENA": "Velisav",
     "VOKATIV": "Velisave"
   },
@@ -6370,14 +6838,6 @@
   {
     "IMENA": "Velizar",
     "VOKATIV": "Velizare"
-  },
-  {
-    "IMENA": "Veličko",
-    "VOKATIV": "Veličko"
-  },
-  {
-    "IMENA": "Veliša",
-    "VOKATIV": "Veliša"
   },
   {
     "IMENA": "Veljko",
@@ -6456,6 +6916,14 @@
     "VOKATIV": "Veso"
   },
   {
+    "IMENA": "Vićan",
+    "VOKATIV": "Vićane"
+  },
+  {
+    "IMENA": "Vićentije",
+    "VOKATIV": "Vićentije"
+  },
+  {
     "IMENA": "Vid",
     "VOKATIV": "Vide"
   },
@@ -6464,16 +6932,16 @@
     "VOKATIV": "Vido"
   },
   {
+    "IMENA": "Vidač",
+    "VOKATIV": "Vidače"
+  },
+  {
     "IMENA": "Vidak",
     "VOKATIV": "Vidače"
   },
   {
     "IMENA": "Vidan",
     "VOKATIV": "Vidane"
-  },
-  {
-    "IMENA": "Vidač",
-    "VOKATIV": "Vidače"
   },
   {
     "IMENA": "Viden",
@@ -6528,6 +6996,18 @@
     "VOKATIV": "Violeta"
   },
   {
+    "IMENA": "Višeslav",
+    "VOKATIV": "Višeslave"
+  },
+  {
+    "IMENA": "Višeslava",
+    "VOKATIV": "Višeslava"
+  },
+  {
+    "IMENA": "Višnja",
+    "VOKATIV": "Višnja"
+  },
+  {
     "IMENA": "Vitka",
     "VOKATIV": "Vitka"
   },
@@ -6542,26 +7022,6 @@
   {
     "IMENA": "Vitomirka",
     "VOKATIV": "Vitomirka"
-  },
-  {
-    "IMENA": "Vićan",
-    "VOKATIV": "Vićane"
-  },
-  {
-    "IMENA": "Vićentije",
-    "VOKATIV": "Vićentije"
-  },
-  {
-    "IMENA": "Višeslav",
-    "VOKATIV": "Višeslave"
-  },
-  {
-    "IMENA": "Višeslava",
-    "VOKATIV": "Višeslava"
-  },
-  {
-    "IMENA": "Višnja",
-    "VOKATIV": "Višnja"
   },
   {
     "IMENA": "Vjekoslav",
@@ -6648,6 +7108,10 @@
     "VOKATIV": "Vlasije"
   },
   {
+    "IMENA": "Vlaško",
+    "VOKATIV": "Vlaško"
+  },
+  {
     "IMENA": "Vlasta",
     "VOKATIV": "Vlasto"
   },
@@ -6666,10 +7130,6 @@
   {
     "IMENA": "Vlatko",
     "VOKATIV": "Vlatko"
-  },
-  {
-    "IMENA": "Vlaško",
-    "VOKATIV": "Vlaško"
   },
   {
     "IMENA": "Voica",
@@ -6728,6 +7188,38 @@
     "VOKATIV": "Vojo"
   },
   {
+    "IMENA": "Vuča",
+    "VOKATIV": "Vučo"
+  },
+  {
+    "IMENA": "Vučan",
+    "VOKATIV": "Vučane"
+  },
+  {
+    "IMENA": "Vučen",
+    "VOKATIV": "Vučene"
+  },
+  {
+    "IMENA": "Vučeta",
+    "VOKATIV": "Vučeta"
+  },
+  {
+    "IMENA": "Vučić",
+    "VOKATIV": "Vučiću"
+  },
+  {
+    "IMENA": "Vučina",
+    "VOKATIV": "Vučina"
+  },
+  {
+    "IMENA": "Vučko",
+    "VOKATIV": "Vučko"
+  },
+  {
+    "IMENA": "Vučur",
+    "VOKATIV": "Vučure"
+  },
+  {
     "IMENA": "Vugdrag",
     "VOKATIV": "Vugdraže"
   },
@@ -6764,6 +7256,14 @@
     "VOKATIV": "Vujana"
   },
   {
+    "IMENA": "Vujčeta",
+    "VOKATIV": "Vujčeta"
+  },
+  {
+    "IMENA": "Vujčin",
+    "VOKATIV": "Vujčine"
+  },
+  {
     "IMENA": "Vujeta",
     "VOKATIV": "Vujeta"
   },
@@ -6784,16 +7284,12 @@
     "VOKATIV": "Vujoše"
   },
   {
-    "IMENA": "Vujčeta",
-    "VOKATIV": "Vujčeta"
-  },
-  {
-    "IMENA": "Vujčin",
-    "VOKATIV": "Vujčine"
-  },
-  {
     "IMENA": "Vuk",
     "VOKATIV": "Vuče"
+  },
+  {
+    "IMENA": "Vukač",
+    "VOKATIV": "Vukače"
   },
   {
     "IMENA": "Vukadin",
@@ -6828,8 +7324,8 @@
     "VOKATIV": "Vukase"
   },
   {
-    "IMENA": "Vukač",
-    "VOKATIV": "Vukače"
+    "IMENA": "Vukasin",
+    "VOKATIV": "Vukašine"
   },
   {
     "IMENA": "Vukašin",
@@ -6844,12 +7340,12 @@
     "VOKATIV": "Vukena"
   },
   {
-    "IMENA": "Vukica",
-    "VOKATIV": "Vukice"
-  },
-  {
     "IMENA": "Vukić",
     "VOKATIV": "Vukiću"
+  },
+  {
+    "IMENA": "Vukica",
+    "VOKATIV": "Vukice"
   },
   {
     "IMENA": "Vukman",
@@ -6912,16 +7408,16 @@
     "VOKATIV": "Vukovoje"
   },
   {
+    "IMENA": "Vukša",
+    "VOKATIV": "Vukša"
+  },
+  {
     "IMENA": "Vuksan",
     "VOKATIV": "Vuksane"
   },
   {
     "IMENA": "Vuksana",
     "VOKATIV": "Vuksana"
-  },
-  {
-    "IMENA": "Vukša",
-    "VOKATIV": "Vukša"
   },
   {
     "IMENA": "Vule",
@@ -6940,38 +7436,6 @@
     "VOKATIV": "Vuzmane"
   },
   {
-    "IMENA": "Vuča",
-    "VOKATIV": "Vučo"
-  },
-  {
-    "IMENA": "Vučan",
-    "VOKATIV": "Vučane"
-  },
-  {
-    "IMENA": "Vučen",
-    "VOKATIV": "Vučene"
-  },
-  {
-    "IMENA": "Vučeta",
-    "VOKATIV": "Vučeta"
-  },
-  {
-    "IMENA": "Vučina",
-    "VOKATIV": "Vučina"
-  },
-  {
-    "IMENA": "Vučić",
-    "VOKATIV": "Vučiću"
-  },
-  {
-    "IMENA": "Vučko",
-    "VOKATIV": "Vučko"
-  },
-  {
-    "IMENA": "Vučur",
-    "VOKATIV": "Vučure"
-  },
-  {
     "IMENA": "Zafir",
     "VOKATIV": "Zafire"
   },
@@ -6988,12 +7452,28 @@
     "VOKATIV": "Zaharije"
   },
   {
+    "IMENA": "Žaklina",
+    "VOKATIV": "Žaklina"
+  },
+  {
+    "IMENA": "Žanka",
+    "VOKATIV": "Žanka"
+  },
+  {
     "IMENA": "Zarija",
     "VOKATIV": "Zarija"
   },
   {
     "IMENA": "Zarije",
     "VOKATIV": "Zarije"
+  },
+  {
+    "IMENA": "Zarko",
+    "VOKATIV": "Žarko"
+  },
+  {
+    "IMENA": "Žarko",
+    "VOKATIV": "Žarko"
   },
   {
     "IMENA": "Zavida",
@@ -7014,6 +7494,146 @@
   {
     "IMENA": "Zdravko",
     "VOKATIV": "Zdravko"
+  },
+  {
+    "IMENA": "Želimir",
+    "VOKATIV": "Želimire"
+  },
+  {
+    "IMENA": "Želimirka",
+    "VOKATIV": "Želimirka"
+  },
+  {
+    "IMENA": "Zeljana",
+    "VOKATIV": "Željana"
+  },
+  {
+    "IMENA": "Željana",
+    "VOKATIV": "Željana"
+  },
+  {
+    "IMENA": "Željka",
+    "VOKATIV": "Željka"
+  },
+  {
+    "IMENA": "Zeljko",
+    "VOKATIV": "Željko"
+  },
+  {
+    "IMENA": "Željko",
+    "VOKATIV": "Željko"
+  },
+  {
+    "IMENA": "Žika",
+    "VOKATIV": "Žiko"
+  },
+  {
+    "IMENA": "Žikica",
+    "VOKATIV": "Žikice"
+  },
+  {
+    "IMENA": "Žitomir",
+    "VOKATIV": "Žitomire"
+  },
+  {
+    "IMENA": "Živa",
+    "VOKATIV": "Živo"
+  },
+  {
+    "IMENA": "Živadin",
+    "VOKATIV": "Živadine"
+  },
+  {
+    "IMENA": "Živadinka",
+    "VOKATIV": "Živadinka"
+  },
+  {
+    "IMENA": "Živan",
+    "VOKATIV": "Živane"
+  },
+  {
+    "IMENA": "Živana",
+    "VOKATIV": "Živana"
+  },
+  {
+    "IMENA": "Živanka",
+    "VOKATIV": "Živanka"
+  },
+  {
+    "IMENA": "Živanko",
+    "VOKATIV": "Živanko"
+  },
+  {
+    "IMENA": "Živica",
+    "VOKATIV": "Živice"
+  },
+  {
+    "IMENA": "Živka",
+    "VOKATIV": "Živka"
+  },
+  {
+    "IMENA": "Živkica",
+    "VOKATIV": "Živkice"
+  },
+  {
+    "IMENA": "Živko",
+    "VOKATIV": "Živko"
+  },
+  {
+    "IMENA": "Živodarka",
+    "VOKATIV": "Živodarka"
+  },
+  {
+    "IMENA": "Živoin",
+    "VOKATIV": "Živoine"
+  },
+  {
+    "IMENA": "Živoje",
+    "VOKATIV": "Živoje"
+  },
+  {
+    "IMENA": "Živojin",
+    "VOKATIV": "Živojine"
+  },
+  {
+    "IMENA": "Živoljub",
+    "VOKATIV": "Živoljube"
+  },
+  {
+    "IMENA": "Živomir",
+    "VOKATIV": "Živomire"
+  },
+  {
+    "IMENA": "Živomirka",
+    "VOKATIV": "Živomirka"
+  },
+  {
+    "IMENA": "Živorad",
+    "VOKATIV": "Živorade"
+  },
+  {
+    "IMENA": "Živoratka",
+    "VOKATIV": "Živoratka"
+  },
+  {
+    "IMENA": "Živoslav",
+    "VOKATIV": "Živoslave"
+  },
+  {
+    "IMENA": "Živoslava",
+    "VOKATIV": "Živoslava"
+  },
+  {
+    "IMENA": "Živoslavka",
+    "VOKATIV": "Živoslavka"
+  },
+  {
+    "IMENA": "Života",
+    "VOKATIV": "Života"
+  },
+  {
+    "IMENA": "Životije",
+    "VOKATIV": "Životije"
   },
   {
     "IMENA": "Zlata",
@@ -7158,625 +7778,5 @@
   {
     "IMENA": "Zvonko",
     "VOKATIV": "Zvonko"
-  },
-  {
-    "IMENA": "Ćana",
-    "VOKATIV": "Ćano"
-  },
-  {
-    "IMENA": "Ćanka",
-    "VOKATIV": "Ćanka"
-  },
-  {
-    "IMENA": "Ćerana",
-    "VOKATIV": "Ćerana"
-  },
-  {
-    "IMENA": "Ćetko",
-    "VOKATIV": "Ćetko"
-  },
-  {
-    "IMENA": "Ćile",
-    "VOKATIV": "Ćile"
-  },
-  {
-    "IMENA": "Ćira",
-    "VOKATIV": "Ćiro"
-  },
-  {
-    "IMENA": "Ćirilo",
-    "VOKATIV": "Ćirilo"
-  },
-  {
-    "IMENA": "Ćirjak",
-    "VOKATIV": "Ćirjače"
-  },
-  {
-    "IMENA": "Ćirka",
-    "VOKATIV": "Ćirka"
-  },
-  {
-    "IMENA": "Ćirko",
-    "VOKATIV": "Ćirko"
-  },
-  {
-    "IMENA": "Ćiro",
-    "VOKATIV": "Ćiro"
-  },
-  {
-    "IMENA": "Ćuba",
-    "VOKATIV": "Ćubo"
-  },
-  {
-    "IMENA": "Čarna",
-    "VOKATIV": "Čarna"
-  },
-  {
-    "IMENA": "Časlav",
-    "VOKATIV": "Časlave"
-  },
-  {
-    "IMENA": "Časlavka",
-    "VOKATIV": "Časlavka"
-  },
-  {
-    "IMENA": "Čeda",
-    "VOKATIV": "Čedo"
-  },
-  {
-    "IMENA": "Čedo",
-    "VOKATIV": "Čedo"
-  },
-  {
-    "IMENA": "Čedomir",
-    "VOKATIV": "Čedomire"
-  },
-  {
-    "IMENA": "Čedomirka",
-    "VOKATIV": "Čedomirka"
-  },
-  {
-    "IMENA": "Čubrilo",
-    "VOKATIV": "Čubrilo"
-  },
-  {
-    "IMENA": "Đenadije",
-    "VOKATIV": "Đenadije"
-  },
-  {
-    "IMENA": "Đoka",
-    "VOKATIV": "Đoko"
-  },
-  {
-    "IMENA": "Đokica",
-    "VOKATIV": "Đokice"
-  },
-  {
-    "IMENA": "Đoko",
-    "VOKATIV": "Đoko"
-  },
-  {
-    "IMENA": "Đora",
-    "VOKATIV": "Đoro"
-  },
-  {
-    "IMENA": "Đorđe",
-    "VOKATIV": "Đorđe"
-  },
-  {
-    "IMENA": "Đorđije",
-    "VOKATIV": "Đorđije"
-  },
-  {
-    "IMENA": "Đorđina",
-    "VOKATIV": "Đorđina"
-  },
-  {
-    "IMENA": "Đorđo",
-    "VOKATIV": "Đorđo"
-  },
-  {
-    "IMENA": "Đuka",
-    "VOKATIV": "Đuko"
-  },
-  {
-    "IMENA": "Đukan",
-    "VOKATIV": "Đukane"
-  },
-  {
-    "IMENA": "Đulijana",
-    "VOKATIV": "Đulijana"
-  },
-  {
-    "IMENA": "Đura",
-    "VOKATIV": "Đuro"
-  },
-  {
-    "IMENA": "Đuran",
-    "VOKATIV": "Đurane"
-  },
-  {
-    "IMENA": "Đurađ",
-    "VOKATIV": "Đurađe"
-  },
-  {
-    "IMENA": "Đuraš",
-    "VOKATIV": "Đuraše"
-  },
-  {
-    "IMENA": "Đurašin",
-    "VOKATIV": "Đurašine"
-  },
-  {
-    "IMENA": "Đuraško",
-    "VOKATIV": "Đuraško"
-  },
-  {
-    "IMENA": "Đurica",
-    "VOKATIV": "Đurice"
-  },
-  {
-    "IMENA": "Đurisav",
-    "VOKATIV": "Đurisave"
-  },
-  {
-    "IMENA": "Đurisava",
-    "VOKATIV": "Đurisava"
-  },
-  {
-    "IMENA": "Đuriša",
-    "VOKATIV": "Đuriša"
-  },
-  {
-    "IMENA": "Đurko",
-    "VOKATIV": "Đurko"
-  },
-  {
-    "IMENA": "Đuro",
-    "VOKATIV": "Đuro"
-  },
-  {
-    "IMENA": "Đurđa",
-    "VOKATIV": "Đurđa"
-  },
-  {
-    "IMENA": "Đurđe",
-    "VOKATIV": "Đurđe"
-  },
-  {
-    "IMENA": "Đurđevka",
-    "VOKATIV": "Đurđevka"
-  },
-  {
-    "IMENA": "Đurđica",
-    "VOKATIV": "Đurđice"
-  },
-  {
-    "IMENA": "Đurđija",
-    "VOKATIV": "Đurđija"
-  },
-  {
-    "IMENA": "Đurđijana",
-    "VOKATIV": "Đurđijana"
-  },
-  {
-    "IMENA": "Đurđina",
-    "VOKATIV": "Đurđina"
-  },
-  {
-    "IMENA": "Šako",
-    "VOKATIV": "Šako"
-  },
-  {
-    "IMENA": "Šakota",
-    "VOKATIV": "Šakota"
-  },
-  {
-    "IMENA": "Šale",
-    "VOKATIV": "Šale"
-  },
-  {
-    "IMENA": "Šana",
-    "VOKATIV": "Šano"
-  },
-  {
-    "IMENA": "Šiško",
-    "VOKATIV": "Šiško"
-  },
-  {
-    "IMENA": "Špiro",
-    "VOKATIV": "Špiro"
-  },
-  {
-    "IMENA": "Šumenko",
-    "VOKATIV": "Šumenko"
-  },
-  {
-    "IMENA": "Šutan",
-    "VOKATIV": "Šutane"
-  },
-  {
-    "IMENA": "Šćepan",
-    "VOKATIV": "Šćepane"
-  },
-  {
-    "IMENA": "Žaklina",
-    "VOKATIV": "Žaklina"
-  },
-  {
-    "IMENA": "Žanka",
-    "VOKATIV": "Žanka"
-  },
-  {
-    "IMENA": "Žarko",
-    "VOKATIV": "Žarko"
-  },
-  {
-    "IMENA": "Želimir",
-    "VOKATIV": "Želimire"
-  },
-  {
-    "IMENA": "Želimirka",
-    "VOKATIV": "Želimirka"
-  },
-  {
-    "IMENA": "Željana",
-    "VOKATIV": "Željana"
-  },
-  {
-    "IMENA": "Željka",
-    "VOKATIV": "Željka"
-  },
-  {
-    "IMENA": "Željko",
-    "VOKATIV": "Željko"
-  },
-  {
-    "IMENA": "Žika",
-    "VOKATIV": "Žiko"
-  },
-  {
-    "IMENA": "Žikica",
-    "VOKATIV": "Žikice"
-  },
-  {
-    "IMENA": "Žitomir",
-    "VOKATIV": "Žitomire"
-  },
-  {
-    "IMENA": "Živa",
-    "VOKATIV": "Živo"
-  },
-  {
-    "IMENA": "Živadin",
-    "VOKATIV": "Živadine"
-  },
-  {
-    "IMENA": "Živadinka",
-    "VOKATIV": "Živadinka"
-  },
-  {
-    "IMENA": "Živan",
-    "VOKATIV": "Živane"
-  },
-  {
-    "IMENA": "Živana",
-    "VOKATIV": "Živana"
-  },
-  {
-    "IMENA": "Živanka",
-    "VOKATIV": "Živanka"
-  },
-  {
-    "IMENA": "Živanko",
-    "VOKATIV": "Živanko"
-  },
-  {
-    "IMENA": "Živica",
-    "VOKATIV": "Živice"
-  },
-  {
-    "IMENA": "Živka",
-    "VOKATIV": "Živka"
-  },
-  {
-    "IMENA": "Živkica",
-    "VOKATIV": "Živkice"
-  },
-  {
-    "IMENA": "Živko",
-    "VOKATIV": "Živko"
-  },
-  {
-    "IMENA": "Živodarka",
-    "VOKATIV": "Živodarka"
-  },
-  {
-    "IMENA": "Živoin",
-    "VOKATIV": "Živoine"
-  },
-  {
-    "IMENA": "Živoje",
-    "VOKATIV": "Živoje"
-  },
-  {
-    "IMENA": "Živojin",
-    "VOKATIV": "Živojine"
-  },
-  {
-    "IMENA": "Živoljub",
-    "VOKATIV": "Živoljube"
-  },
-  {
-    "IMENA": "Živomir",
-    "VOKATIV": "Živomire"
-  },
-  {
-    "IMENA": "Živomirka",
-    "VOKATIV": "Živomirka"
-  },
-  {
-    "IMENA": "Živorad",
-    "VOKATIV": "Živorade"
-  },
-  {
-    "IMENA": "Živoratka",
-    "VOKATIV": "Živoratka"
-  },
-  {
-    "IMENA": "Živoslav",
-    "VOKATIV": "Živoslave"
-  },
-  {
-    "IMENA": "Živoslava",
-    "VOKATIV": "Živoslava"
-  },
-  {
-    "IMENA": "Živoslavka",
-    "VOKATIV": "Živoslavka"
-  },
-  {
-    "IMENA": "Života",
-    "VOKATIV": "Života"
-  },
-  {
-    "IMENA": "Životije",
-    "VOKATIV": "Životije"
-  },
-  {
-    "IMENA": "Anja",
-    "VOKATIV": "Anja"
-  },
-  {
-    "IMENA": "Lav",
-    "VOKATIV": "Lave"
-  },
-  {
-    "IMENA": "Dino",
-    "VOKATIV": "Dino"
-  },
-  {
-    "IMENA": "Peđa",
-    "VOKATIV": "Peđa"
-  },
-  {
-    "IMENA": "Nana",
-    "VOKATIV": "Nano"
-  },
-  {
-    "IMENA": "Tereza",
-    "VOKATIV": "Tereza"
-  },
-  {
-    "IMENA": "Oskar",
-    "VOKATIV": "Oskare"
-  },
-  {
-    "IMENA": "Adrian",
-    "VOKATIV": "Adriane"
-  },
-  {
-    "IMENA": "Aleks",
-    "VOKATIV": "Alekse"
-  },
-  {
-    "IMENA": "Dusan",
-    "VOKATIV": "Dušane"
-  },
-  {
-    "IMENA": "Valentina",
-    "VOKATIV": "Valentina"
-  },
-  {
-    "IMENA": "Daniel",
-    "VOKATIV": "Daniele"
-  },
-  {
-    "IMENA": "Daniela",
-    "VOKATIV": "Daniela"
-  },
-  {
-    "IMENA": "Michal",
-    "VOKATIV": "Michal"
-  },
-  {
-    "IMENA": "Adis",
-    "VOKATIV": "Adise"
-  },
-  {
-    "IMENA": "Mihaela",
-    "VOKATIV": "Mihaela"
-  },
-  {
-    "IMENA": "Djordje",
-    "VOKATIV": "Đorđe"
-  },
-  {
-    "IMENA": "Sasa",
-    "VOKATIV": "Saša"
-  },
-  {
-    "IMENA": "Natasa",
-    "VOKATIV": "Nataša"
-  },
-  {
-    "IMENA": "Dijana",
-    "VOKATIV": "Dijana"
-  },
-  {
-    "IMENA": "Nebojsa",
-    "VOKATIV": "Nebojša"
-  },
-  {
-    "IMENA": "Jerotija",
-    "VOKATIV": "Jerotija"
-  },
-  {
-    "IMENA": "Kristijan",
-    "VOKATIV": "Kristijane"
-  },
-  {
-    "IMENA": "Dzemil",
-    "VOKATIV": "Džemile"
-  },
-  {
-    "IMENA": "Deni",
-    "VOKATIV": "Deni"
-  },
-  {
-    "IMENA": "Muhamed",
-    "VOKATIV": "Muhamede"
-  },
-  {
-    "IMENA": "Adnan",
-    "VOKATIV": "Adnane"
-  },
-  {
-    "IMENA": "Vukasin",
-    "VOKATIV": "Vukašine"
-  },
-  {
-    "IMENA": "Milos",
-    "VOKATIV": "Miloše"
-  },
-  {
-    "IMENA": "Srdjan",
-    "VOKATIV": "Srđane"
-  },
-  {
-    "IMENA": "Uros",
-    "VOKATIV": "Uroše"
-  },
-  {
-    "IMENA": "Zeljko",
-    "VOKATIV": "Željko"
-  },
-  {
-    "IMENA": "Zarko",
-    "VOKATIV": "Žarko"
-  },
-  {
-    "IMENA": "Blazo",
-    "VOKATIV": "Blažo"
-  },
-  {
-    "IMENA": "Zeljana",
-    "VOKATIV": "Željana"
-  },
-  {
-    "IMENA": "Anita",
-    "VOKATIV": "Anita"
-  },
-  {
-    "IMENA": "Kristian",
-    "VOKATIV": "Kristiane"
-  },
-  {
-    "IMENA": "Mia",
-    "VOKATIV": "Mia"
-  },
-  {
-    "IMENA": "Bela",
-    "VOKATIV": "Bela"
-  },
-  {
-    "IMENA": "Misa",
-    "VOKATIV": "Mišo"
-  },
-  {
-    "IMENA": "Janoš",
-    "VOKATIV": "Janoše"
-  },
-  {
-    "IMENA": "Denis",
-    "VOKATIV": "Denise"
-  },
-  {
-    "IMENA": "Manja",
-    "VOKATIV": "Manja"
-  },
-  {
-    "IMENA": "Drasko",
-    "VOKATIV": "Draško"
-  },
-  {
-    "IMENA": "Alen",
-    "VOKATIV": "Alene"
-  },
-  {
-    "IMENA": "Ardijan",
-    "VOKATIV": "Ardijane"
-  },
-  {
-    "IMENA": "Bozidar",
-    "VOKATIV": "Božidare"
-  },
-  {
-    "IMENA": "Maiden",
-    "VOKATIV": "Maidene"
-  },
-  {
-    "IMENA": "Andjela",
-    "VOKATIV": "Anđela"
-  },
-  {
-    "IMENA": "Andjelka",
-    "VOKATIV": "Anđelka"
-  },
-  {
-    "IMENA": "Biljka",
-    "VOKATIV": "Biljka"
-  },
-  {
-    "IMENA": "Sinisa",
-    "VOKATIV": "Siniša"
-  },
-  {
-    "IMENA": "Adrien",
-    "VOKATIV": "Adriene"
-  },
-  {
-    "IMENA": "Husnija",
-    "VOKATIV": "Husnija"
-  },
-  {
-    "IMENA": "Edis",
-    "VOKATIV": "Edise"
-  },
-  {
-    "IMENA": "Snezana",
-    "VOKATIV": "Snežana"
-  },
-  {
-    "IMENA": "Barbara",
-    "VOKATIV": "Barbara"
-  },
-  {
-    "IMENA": "Remzo",
-    "VOKATIV": "Remzo"
-  },
-  {
-    "IMENA": "Lea",
-    "VOKATIV": "Lea"
   }
 ]
